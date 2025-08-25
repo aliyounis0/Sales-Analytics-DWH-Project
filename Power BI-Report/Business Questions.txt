@@ -1,0 +1,22 @@
+✅ Business Questions :
+
+What are the total sales and profit trends over time (monthly/quarterly/yearly)?
+
+Which product categories or specific products are generating the highest revenue?
+
+Who are the top-performing customers in terms of total purchases or frequency of orders?
+
+Which regions, cities, or stores are achieving the highest sales?
+
+What is the average order value, and how does it vary by customer segment or region?
+
+What are the most profitable products (based on profit = sales - cost)?
+
+How does sales performance compare between different time periods (e.g., this month vs. last month)?
+
+What is the impact of holidays and weekends on sales performance?
+
+How effective are loyalty programs in driving customer purchases?
+
+What are the peak selling days or hours (if time granularity is available)?
+
